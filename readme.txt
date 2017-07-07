@@ -1,6 +1,6 @@
 helloween
 
-gasdgasg
+git is a good tool
 
 GPL
 git has a mutable index called stage.
